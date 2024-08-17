@@ -16,7 +16,7 @@ const App = () => {
   
       return(
         <div className="refresh">
-          <h2>No Tours Left</h2>
+          <h2>No Foods Left</h2>
           <button className="btnWhite" onClick={() => setTours(data)}>
             Refresh
           </button>
